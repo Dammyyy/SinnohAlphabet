@@ -1,12 +1,13 @@
 /*フォント*/
 @font-face {
-  font-family: 'Galarfont_1';
-  src: url('../Galarfont_1-Regular.ttf');
+  font-family: 'Sinnoh';
+  src: url('./fonts/Sinnoh-Regular.ttf');
 }
-.galar {
-  font-family: "Galarfont_1" !important;
-  font-size: 40px;
+.sinnoh {
+  font-family: "Sinnoh" !important;
+  font-size: 60px;
   margin: 0 auto;
+  font-weight: bold;
 }
 /*ソート*/
 th.sorted.desc::after{
