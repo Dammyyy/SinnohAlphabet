@@ -1,7 +1,7 @@
 /*フォント*/
 @font-face {
   font-family: 'Sinnoh';
-  src: url('/fonts/Sinnoh-Regular.ttf');
+  src: url('../Sinnoh-Regular.ttf');
 }
 .sinnoh {
   font-family: "Sinnoh" !important;
