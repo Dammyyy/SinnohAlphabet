@@ -136,10 +136,9 @@
 		font-size: 11px;
 	}
 
-	table tbody td p{
-		font-size: 18px;
-		margin: 0 40px;
-	}
+  table tbody td p{
+	  font-size: 2em;
+  }
 
 	table tr {
 		background-color: #efd;
